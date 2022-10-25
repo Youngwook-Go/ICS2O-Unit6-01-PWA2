@@ -10,8 +10,8 @@
  * Check servie worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-Unit6-01-PWA1/sw.js", {
-    scope: "/ICS2O-Unit6-01-PWA1/",
+  navigator.serviceWorker.register("/ICS2O-Unit6-01-PWA2/sw.js", {
+    scope: "/ICS2O-Unit6-01-PWA2/",
   })
 }
 
